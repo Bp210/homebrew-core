@@ -2224,6 +2224,7 @@ uriparser
 urlscan
 usb.ids
 usbredir
+util-linux
 util-macros
 uutils-coreutils
 uutils-diffutils
